@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.fav-container {
+    width: 407px;
+    height: calc(100vh - 200px);
+    border: 1px dashed #414141;
+    border-radius: 15px;
+    padding: 45px 30px;
+    position: fixed;
+    left: 100px;
+    top: 185px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+
+}
+
+h3 {
+    color: #414141;
+}
+
+.favCard {
+    width: 347px;
+    height: 130px;
+    display: flex;
+    justify-content: flex-start;
+    border-radius: 30px;
+    /* border: 1px solid green; */
+    background-color: #FBFBFB;
+    margin-top: 30px;
+    padding: 11px 15px;
+}
+
+.favImg {
+    width: 108px;
+    height: 108px;
+}
+
+.favImg img {
+    width: 100%;
+    height: 100%;
+}
+
+.favDetails {
+    width: 60%;
+    margin: auto 20px;
+}
+
+.favPriceDiv {
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.favIcon {
+    background-color: #414141;
+    border-radius: 7px;
+    /* border-color: #FFCC26; */
+}

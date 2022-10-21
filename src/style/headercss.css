@@ -1,0 +1,17 @@
+.header {
+    width: 100%;
+    height: 100px;
+    background-color: #ffcc26;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-right: 100px;
+    border-bottom: 1px solid #414141;
+    position: fixed;
+    z-index: 1;
+
+}
+
+.header h1 {
+    font-family: 'Anek Telugu', sans-serif !important;
+}
