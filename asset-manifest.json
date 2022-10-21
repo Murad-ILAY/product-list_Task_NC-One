@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/product-list_Task_NC-One/static/css/main.7aa79e4e.css",
+    "main.js": "/product-list_Task_NC-One/static/js/main.e267fefe.js",
+    "index.html": "/product-list_Task_NC-One/index.html",
+    "main.7aa79e4e.css.map": "/product-list_Task_NC-One/static/css/main.7aa79e4e.css.map",
+    "main.e267fefe.js.map": "/product-list_Task_NC-One/static/js/main.e267fefe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7aa79e4e.css",
+    "static/js/main.e267fefe.js"
+  ]
+}
